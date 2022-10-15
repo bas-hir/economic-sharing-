@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rent",
-    "slug": "rent",
+    "name": "Rent",
+    "slug": "Rent",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
